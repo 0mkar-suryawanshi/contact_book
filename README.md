@@ -13,11 +13,3 @@ Build a console-based Contact Book application that allows users to **add, view,
 - Handling user input with **Scanner**
 
 ---
-
-## 📂 Project Structure
-ContactBook/
-├── src/
-│    ├── Contact.java         # Contact entity class
-│    ├── ContactBook.java     # Manages list of contacts
-│    └── Main.java            # Entry point with menu
-└── README.md
